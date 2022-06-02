@@ -1,2 +1,3 @@
-CPPPractice.code-workspace
-/.vscode/
+*.exe
+*.code-workspace
+.vscode/
