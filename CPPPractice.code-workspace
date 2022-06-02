@@ -1,12 +1,9 @@
 {
 	"folders": [
 		{
+			"name": "cpp-practice",
 			"path": "."
 		}
 	],
-	"settings": {
-		"files.associations": {
-			"iostream": "cpp"
-		}
-	}
+	"settings": {}
 }
