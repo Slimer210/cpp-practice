@@ -2,6 +2,7 @@
 using namespace std;
 
 int sumOfNumbers(int n) {
+    // This is an easy method. This function can be written in recursive form.
     int sum = 0;
     while (n > 0) {
         sum += n % 10;

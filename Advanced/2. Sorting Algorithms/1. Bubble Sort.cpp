@@ -7,6 +7,7 @@ void sort(int list[], int numberOfElements) {
         numberOfExecutions++;
         for (j = 0; j < numberOfElements - 1; j++) {
             if (list[j] > list[j + 1]) {
+                // Move smaller value behind, and sort it again
                 temp = list[j];
                 list[j] = list[j + 1];
                 list[j + 1] = temp;
