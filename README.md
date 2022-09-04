@@ -1,3 +1,5 @@
+> Sadly, I still not able to make the involution perfect. So, I gonna start a fresh new competitive programming involution repo.
+
 # CPP Practice
 This is one of my repo for all my c++ practice codes. You will see that it's "very" messy as I kinda lazy to organise it.
 
